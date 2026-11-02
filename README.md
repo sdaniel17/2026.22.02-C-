@@ -2,7 +2,7 @@
 2026.22.02-C#
 
 Abs_max
-'''C#
+```C#
 int abs_max(int elso, int masodik)
 {
     elso = Math.Abs(elso);
@@ -17,9 +17,9 @@ int abs_max(int elso, int masodik)
     }
 }
 Console.WriteLine(abs_max(12, -15));
-'''
+```
 
 Fibonacci
-'''C#
+'''
 
 '''
